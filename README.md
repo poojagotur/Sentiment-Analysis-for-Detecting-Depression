@@ -1,4 +1,5 @@
 # Sentiment Analysis for Detecting Depression
+![image](https://github.com/poojagotur/Sentimental-Analysis-Tweets/assets/138715091/bddc59b7-c358-40e5-a159-c4b067e43310)
 
 ## About the Dataset
 
